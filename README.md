@@ -11,7 +11,7 @@
 
 - Have a look at my CV
 
-![Abiy Dema](https://user-images.githubusercontent.com/76060198/112308534-89d59a80-8ca2-11eb-9be6-07c29e9beb40.png)
+![Abiy DEMA_CV](https://user-images.githubusercontent.com/76060198/113045392-14386580-919f-11eb-8c17-7c9d460ad219.png)
 
 
 
