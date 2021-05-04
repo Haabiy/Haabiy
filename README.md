@@ -11,7 +11,7 @@
 
 - Have a look at my CV
 
-![Abiy DEMA](https://user-images.githubusercontent.com/76060198/117018032-6fa4c880-acf4-11eb-93b5-7ee0b769a8e6.png)
+![Abiy DEMA](https://user-images.githubusercontent.com/76060198/117018445-cad6bb00-acf4-11eb-815d-e85eeef42c5c.png)
 
 3rd year
 
