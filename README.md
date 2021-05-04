@@ -6,7 +6,7 @@
 
 ![ecn images](https://user-images.githubusercontent.com/76060198/112308004-ebe1d000-8ca1-11eb-870b-5ec1647471c8.png)
 
-- 😁 I’m looking for 3 - 5 months of internship
+- 😁 I’m looking for 2 - 5 months of internship
 - 📫 Check out my Linkedin here,  _`linkedin.com/in/abiy-habte-dema-46b651202 `_
 
 - Have a look at my CV
