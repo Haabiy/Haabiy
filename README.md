@@ -13,6 +13,8 @@
 
 ![Abiy DEMA_CV](https://user-images.githubusercontent.com/76060198/113045392-14386580-919f-11eb-8c17-7c9d460ad219.png)
 
+3rd year
+
 [DEMA_RecommendationLetter.pdf](https://github.com/Haabiy/Snake-game.py/files/6377295/DEMA_RecommendationLetter.pdf)
 
 ![Abiy_DEMA_RecommendationLetter](https://user-images.githubusercontent.com/76060198/116088742-71421100-a6a2-11eb-854d-33cb309fbdca.png)
