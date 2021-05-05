@@ -10,7 +10,7 @@
 - 📫 Check out my Linkedin here,  _`linkedin.com/in/abiy-habte-dema-46b651202 `_
 
 - Have a look at my CV
-[Abiy DEMA_CV.pdf](https://github.com/Haabiy/Snake-game.py/files/6427187/Abiy.DEMA_CV.pdf)
+[Abiy DEMA_CV.pdf](https://github.com/Haabiy/Snake-game.py/files/6427604/Abiy.DEMA_CV.pdf)
 
 ![Abiy Dema](https://user-images.githubusercontent.com/76060198/117143966-ab519800-adb1-11eb-9626-5cb5532fd75a.png)
 
