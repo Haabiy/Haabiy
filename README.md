@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Abiy<br>Graduate Engineer | École Centrale de Nantes<br>An upcoming Data and AI expert
+Hi 👋, I'm Abiy<br>Graduate Engineer | Centrale Nantes<br>An upcoming Data and AI expert
 
 
 ## 🌐 Socials:
