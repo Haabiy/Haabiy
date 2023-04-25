@@ -1,11 +1,6 @@
 # 💫 About Me:
 👋Hi, I'm Abiy
 
-🎓Graduate Engineer | Centrale Nantes
-
-👨‍💻An upcoming Data and AI research scientist
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abiy-dema) 
 
